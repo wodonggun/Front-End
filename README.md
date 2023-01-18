@@ -65,6 +65,37 @@
 ![image](https://user-images.githubusercontent.com/35188271/212543791-0d1a0495-1b99-4654-8ff3-474d7b5ec3db.png)  
 ![image](https://user-images.githubusercontent.com/35188271/212543885-b7c55006-8a35-4bfc-b7aa-77fb963b6b18.png)  
 
+- `class` : 요소의 중복가능한 이름
+- `id` : 요소의 고유한 이름(중복되어서 사용하지않고, 특별한 값에 고유해야함 = 중복되어도 정상동작하고, css모두 적용됨)
+- `data` : 요소에 데이터그룹 지정
+![image](https://user-images.githubusercontent.com/35188271/213172900-d3bcbba6-f9d5-4a28-a112-eeab7648811e.png)
+
+- `선택자{속성:값; 속성:값;} = span{color:red; margin: 20px;}` : 선택자는 원하는 요소의 css이름
+
+![image](https://user-images.githubusercontent.com/35188271/213180609-4a1adaa1-8143-4db2-bf5c-35a47de45a86.png)
+![image](https://user-images.githubusercontent.com/35188271/213180630-e16a0275-32ac-4030-b6b1-1d129e9848b4.png)
+![image](https://user-images.githubusercontent.com/35188271/213180643-fd855162-0919-4ab0-9f4e-d0383c7995e9.png)
+![image](https://user-images.githubusercontent.com/35188271/213180663-9207f365-b759-4f0e-ba18-537a928841d5.png)
+![image](https://user-images.githubusercontent.com/35188271/213180681-1abb8764-4056-4d39-aec3-024edfd9244f.png)
+![image](https://user-images.githubusercontent.com/35188271/213180696-8cf8322f-a6bf-4a91-bea8-484a9c1a95ab.png)
+![image](https://user-images.githubusercontent.com/35188271/213180707-48e315c3-aec7-4f51-931c-cf5827631b6a.png)
+![image](https://user-images.githubusercontent.com/35188271/213180726-3814869f-066c-4ca7-add2-59bfa2ace050.png)
+![image](https://user-images.githubusercontent.com/35188271/213180744-8b5d3b08-774e-4608-a380-a01365faac41.png)
+![image](https://user-images.githubusercontent.com/35188271/213181991-36b6b28f-13a1-4215-88ec-1223f3cadbd4.png)
+![image](https://user-images.githubusercontent.com/35188271/213182006-520478db-d3f4-4ee3-82b8-d4b88a4ecb26.png)
+![image](https://user-images.githubusercontent.com/35188271/213182037-a5f270d6-8b86-4e9c-a762-1c96487cb890.png)
+- `focus` : 대표적으로 input태그가 가능하고, div같은 경우에 불가능 하지만 아래와 같이 tabindex="-1"을 주게되면 focus기능 활성화.
+![image](https://user-images.githubusercontent.com/35188271/213182991-bdbf5d59-4370-4b96-a316-7912bdd16814.png)
+![image](https://user-images.githubusercontent.com/35188271/213185454-4823d760-ac9b-487f-9da5-da79c0577d9f.png)
+![image](https://user-images.githubusercontent.com/35188271/213185479-bd4e5d84-1854-4c3f-9512-9c16c85314c9.png)
+![image](https://user-images.githubusercontent.com/35188271/213185874-40f9163e-7ac6-4959-883d-b460722d776e.png)
+![image](https://user-images.githubusercontent.com/35188271/213185976-555d965d-2895-41e6-b099-d5d40f3ae89b.png)
+![image](https://user-images.githubusercontent.com/35188271/213186000-da4881d5-33c2-4cd5-acc0-aea9b2f9f01d.png)
+
+
+- `스타일 우선순위` :   
+![image](https://user-images.githubusercontent.com/35188271/213190257-571f26b5-5313-4fe2-a8d9-69e435daf0e0.png)
+![image](https://user-images.githubusercontent.com/35188271/213190230-0ab7f25e-7326-418b-8fc0-2f9504c86a61.png)
 
 
 
