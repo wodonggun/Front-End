@@ -71,3 +71,13 @@ console.log(hello);
 ```
   
 크롬 -> 개발자 Mode에서 콘솔 로그 확인
+
+
+## 아이콘 추가
+![image](https://user-images.githubusercontent.com/35188271/222076890-adcbf559-47aa-429f-b9c7-c4951eaab38b.png)
+`<link rel="icon" href="./favicon.png">`
+
+
+## 이미지 추가
+
+`<img src="logo.png" alt="">`
