@@ -69,3 +69,5 @@ console.log(myName);
 console.log(email);
 console.log(hello);
 ```
+  
+크롬 -> 개발자 Mode에서 콘솔 로그 확인
