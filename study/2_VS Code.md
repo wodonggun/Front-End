@@ -33,7 +33,11 @@ index.html
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
   <link rel="stylesheet" href="./main.css"></link>
-
+  <style>
+    div{
+      text-decoration: underline;
+    }
+  </style>
 </head>
 <body>
   <div>Hello World!</div>
@@ -53,6 +57,7 @@ div {
 ## JS 동작 테스트
 
 script헤더 추가 :   <script src="./main.js"></script>  
+
 
 main.js
 ```js
