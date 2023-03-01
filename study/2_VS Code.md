@@ -20,3 +20,47 @@
 
 
 
+
+
+## 동작 테스트
+
+index.html
+```HTML
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="./main.css"></link>
+
+</head>
+<body>
+  <div>Hello World!</div>
+</body>
+</html>
+```
+  
+main.css
+```CSS
+div {
+  color: red;
+  font-size: 50px; 
+}
+```
+
+
+## JS 동작 테스트
+
+script헤더 추가 :   <script src="./main.js"></script>  
+
+main.js
+```js
+let myName = "WDG";
+let email = 'wodonggun@naver.com';
+let hello = `Hello ${myName}?!`;
+
+console.log(myName);
+console.log(email);
+console.log(hello);
+```
