@@ -83,6 +83,26 @@ console.log(hello);
 `<img src="logo.png" alt="">`
 
 
+## HTML 구조 간단 정리
+![image](https://user-images.githubusercontent.com/35188271/222874968-1e5b6d43-d04d-443e-9872-57efe11ea179.png)
+---
+![image](https://user-images.githubusercontent.com/35188271/222874973-7fceb0f8-5420-4d26-bfc2-2e565f9180ab.png)
+---
+![image](https://user-images.githubusercontent.com/35188271/222874979-134f4a83-adab-4d6b-98f1-c07d0d9622e0.png)
+---
+![image](https://user-images.githubusercontent.com/35188271/222874983-84482865-b25e-492e-88ff-dc278a89d516.png)
+---
+![image](https://user-images.githubusercontent.com/35188271/222874988-98c70f0e-cfc9-49cb-8ab7-c511e06575e7.png)
+---
+![image](https://user-images.githubusercontent.com/35188271/222874997-1cb794b1-4850-471a-b408-b79f814aa69c.png)
+---
+![image](https://user-images.githubusercontent.com/35188271/222875056-e27e8fe5-f2e1-4284-aa89-8ca5e7547d68.png)
+---
+![image](https://user-images.githubusercontent.com/35188271/222875059-5ec2dd18-a5c2-4a65-a7bc-f304b80d455b.png)
+---
+![image](https://user-images.githubusercontent.com/35188271/222875062-d8f5095f-195e-4c40-97b0-0b808934fdc8.png)
+
+
 
 
 # 상대 경로 vs 절대 경로
@@ -101,4 +121,5 @@ console.log(hello);
 ![image](https://user-images.githubusercontent.com/35188271/222871375-5437e4d2-7e1c-4724-9735-6e43d1aa2b2d.png)
 
 ![image](https://user-images.githubusercontent.com/35188271/222871385-9da8d203-eca3-4858-99b6-c1641bcde463.png)
+
 
