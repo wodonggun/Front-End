@@ -1,4 +1,12 @@
 
+## 웹이란?
+
+![image](https://user-images.githubusercontent.com/35188271/222873156-3f7a0d81-0c8b-4645-b572-52a874c6734a.png)
+![image](https://user-images.githubusercontent.com/35188271/222873068-fb2bb86f-255a-49ac-b659-7eadaf1a4ab3.png)
+
+
+
+
 ## HTML CSS JavaScript
 
 ![image](https://user-images.githubusercontent.com/35188271/222055254-f320109f-7c25-4fb8-bc8e-f2646b3cb353.png)
