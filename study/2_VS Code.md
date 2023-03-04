@@ -81,3 +81,24 @@ console.log(hello);
 ## 이미지 추가
 
 `<img src="logo.png" alt="">`
+
+
+
+
+# 상대 경로 vs 절대 경로
+
+![image](https://user-images.githubusercontent.com/35188271/222871125-bc90fd9b-1b3f-4542-a53c-d861bbde550b.png)
+
+- `상대 경로` : 상대적인 경로로, 현재 자신의 위치를 기준으로 함(`./testApp/favicon.svg`)
+- `절대 경로` : 지금 현재 파일(폴더)의 위치가 아닌, 처음 경로(root)부터 원하는 경로까지 모든 경로를 다 입력함(`C:\Users\User\Project\testApp\index.html`)
+
+
+
+## 예시
+
+![image](https://user-images.githubusercontent.com/35188271/222871373-49c0d2a4-af8d-48f1-80ee-dd3487a4d865.png)
+
+![image](https://user-images.githubusercontent.com/35188271/222871375-5437e4d2-7e1c-4724-9735-6e43d1aa2b2d.png)
+
+![image](https://user-images.githubusercontent.com/35188271/222871385-9da8d203-eca3-4858-99b6-c1641bcde463.png)
+
